@@ -1,0 +1,19 @@
+*{
+    background-color: aqua;
+   
+}
+
+.d1{
+    width: 1000px;
+    margin: 50px auto;
+    color: black;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 5em;
+    text-transform: uppercase;
+}
+
